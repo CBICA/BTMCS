@@ -1,9 +1,0 @@
-ObjectType = Image
-NDims = 3
-BinaryData = True
-BinaryDataByteOrderMSB = False
-ElementSpacing = 4.000000 4.000000 2.828125
-DimSize = 65 65 65
-ElementNumberOfChannels = 3
-ElementType = MET_FLOAT
-ElementDataFile = DeformationField.001.fld
