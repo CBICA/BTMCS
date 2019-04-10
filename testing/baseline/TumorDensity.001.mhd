@@ -1,0 +1,11 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+TransformMatrix = 1 0 0 0 -1 0 0 0 1
+AnatomicalOrientation = RPI
+ElementSpacing = 4.000000 4.000000 2.828125
+DimSize = 64 64 64
+ElementNumberOfChannels = 1
+ElementType = MET_FLOAT
+ElementDataFile = TumorDensity.001.fld
